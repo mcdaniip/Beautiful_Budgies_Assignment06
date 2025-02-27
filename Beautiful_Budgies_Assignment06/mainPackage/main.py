@@ -17,3 +17,9 @@ from foodPackage.food import *
 from cagePackage.cage import *
 
 if __name__ == "__main__":
+    my_cage = cage("bird-full")  
+   
+    print(my_cage)  # Calls __str__ to print type and locked/unlocked state
+    my_cage.unlock()  
+    my_cage.type = "bird-less"  
+    print(my_cage) 
