@@ -5,10 +5,12 @@
 # Due Date:   2/25/2025
 # Course #/Section:   4010-001
 # Semester/Year:   Spring 25
-# Brief Description of the assignment:  
+# Brief Description of the assignment:  collaboratively modeling a budgie with food, cage, bird, and nest classes
 
-# Brief Description of what this module does. 
+# Brief Description of what this module does.: This module is furthering our knowledge of python with classes as well as collaboration with github
+# Citations: 
 
+# Anything else that's relevant:
 class BirdFeeder:
     """
     A class representing a bird feeder with food, simulating birds and squirrels eating and refilling.

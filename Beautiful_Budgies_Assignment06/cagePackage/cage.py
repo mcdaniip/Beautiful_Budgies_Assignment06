@@ -1,10 +1,16 @@
-# File Name : main.py
-# Student Name: Ian McDaniel, Sharvari Girish Patil, Nate Hoang, Michael Slivinski
-# email:  {required}
+# File Name : cage.py
+# Student Name: Sharvari Girish Patil
+# email:  patilsg@mail.uc.edu
 # Assignment Number: Assignment 06
 # Due Date:   February 25 2025
 # Course #/Section:   IS4010 - 001
 # Semester/Year:   Spring Semester 2025
+# Brief Description of the assignment: collaboratively modeling a budgie with food, cage, bird, and nest classes
+
+# Brief Description of what this module does.: This module is furthering our knowledge of python with classes as well as collaboration with github
+# Citations: 
+
+# Anything else that's relevant:
 
 def main(): 
     print(cage)  
